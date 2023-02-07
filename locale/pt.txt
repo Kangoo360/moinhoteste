@@ -1,0 +1,57 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_34DB1BC9_2C3F_3EE1_41B6_43A68007E3FE.source = https://wa.me/5532991300549
+LinkBehaviour_374067ED_2C38_F6A1_4189_E6D74C254AB1.source = https://wa.me/5532991300549
+
+## Media
+
+### Image
+imlevel_3179DDC4_2C48_DAE7_41B8_DDF177D94E1E.url = media/zoomImage_34416365_2DC9_2FA1_41B0_39AB8025269D_pt_0_0.jpg
+imlevel_3179CDC4_2C48_DAE7_41BD_DA642DF9DF39.url = media/zoomImage_34416365_2DC9_2FA1_41B0_39AB8025269D_pt_0_1.jpg
+imlevel_3178BDAD_2C48_DAA1_41C1_AA9C431FD1BE.url = media/zoomImage_349E7A73_2DC8_F9A1_41BC_5DC96E0310F5_pt_0_0.jpg
+imlevel_3178BDB2_2C48_DAA3_41AA_EE7FC25FF095.url = media/zoomImage_349E7A73_2DC8_F9A1_41BC_5DC96E0310F5_pt_0_1.jpg
+
+### Popup Image
+
+### Title
+panorama_20A8A679_2BCB_29A1_41A0_23FE9D0495B3.label = 20230207_084035_911
+panorama_20A85DDA_2BCB_DAE3_41BA_4AC980C0437D.label = 20230207_084104_335
+panorama_20A84C77_2BCB_F9A1_41A2_A4873C7DFA05.label = 20230207_084154_848
+panorama_20A860F9_2BCB_EAA1_41BE_0B5FF45A6B79.label = 20230207_084232_587
+panorama_3B154A5A_2BCB_59E3_41AF_9F7C305AB86D.label = 20230207_084533_016 (1)
+
+## Skin
+
+### Button
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = 5º Andar
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = 5º andar
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Auditório
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Auditório
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Co-Working
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Co-Working
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Contato
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Contato
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Externo
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Externo
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+
+### Image
+Image_3942268C_2DC9_2967_41AD_5F0301D6546E.url = skin/Image_3942268C_2DC9_2967_41AD_5F0301D6546E_pt.png
+Image_39CC8088_2C3B_296F_41AD_36610089EB40.url = skin/Image_39CC8088_2C3B_296F_41AD_36610089EB40_pt.png
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Av. Juscelino Kubitschek, 900</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Juiz de Fora-MG</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;word-break:break-word;font-family:'Oswald Regular';"><I>Av Juscelino Kubitschek, 900</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;word-break:break-word;font-family:'Oswald Regular';"><I>Juiz de Fora-MG</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = MOINHO Zona Norte - Tour Virtual 360º \
+Av. JK nº 900, Juiz de Fora-MG
+
+### Title
+tour.name = Untitled 1
